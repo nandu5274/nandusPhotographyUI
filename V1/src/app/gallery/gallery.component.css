@@ -1,0 +1,49 @@
+.picdetails
+{
+  color: white;
+  margin: 2px;
+  margin-top: 4px;
+  font: inherit;
+  font-size: small;
+  margin-left: 6px;
+
+}
+
+.imagesityle
+{
+  height: 17px;
+  margin: 2px;
+  width: 17px;
+  margin-left: 6px;
+}
+
+.imagesitylelense
+{
+  height: 18px;
+  margin: 2px;
+  width: 18px;
+  margin-left: 6px;
+
+}
+.imagesitylecamera
+{
+  height: 16px;
+  margin: 2px;
+  width: 19px;
+  margin-left: 6px;
+}
+
+.imagesityleexposer
+{
+  height: 23px;
+  margin: 2px;
+  width: 22px;
+  margin-left: 3px;
+}
+.titletg
+{
+
+  position: initial;
+    margin: auto;
+    margin-top: 2px;
+}
